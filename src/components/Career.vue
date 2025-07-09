@@ -60,7 +60,7 @@ export default {
     return {
       careerPath: [
         {
-          date: "05/05/2025 - 30/06/2025",
+          date: "05/05/2025 - 31/08/2025",
           title: "IT Helpdesk Intern",
           organization: "GE Aerospace Poland Sp. z o.o.",
           logo: "https://tinyurl.com/ge-logo",
